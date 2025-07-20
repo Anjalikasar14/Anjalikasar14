@@ -5,13 +5,17 @@
 ---
 
 ### 👩‍💻 About Me
+🎓 Currently pursuing B.Tech in CSE (2024–2028) from National Institute of Technology, Raipur
 
-- 🎓 I’m a BTech Computer Science student  
-- 💡 I’m currently learning **HTML, CSS, JavaScript**, and **DSA with C++**  
-- 🛠 I build real-world projects to improve problem-solving  
-- 💼 Hackathon Participant: Adobe India Hackathon, Flipkart GRID 7  
-- 📚 Learning in public — growing one project at a time  
-- 🔗 Portfolio: [https://your-portfolio-link.com](#)
+💡 I’m currently learning HTML, CSS, JavaScript, and DSA with C++
+
+💼 Hackathon Participant: Adobe India Hackathon, Flipkart GRID 7
+
+🧩 Looking for guidance on how to excel in Competitive Programming
+
+📚 Learning in public — growing one project at a time
+
+🔗 Portfolio: https://your-portfolio-link.com
 
 ---
 
