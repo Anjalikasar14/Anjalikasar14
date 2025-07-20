@@ -1,4 +1,4 @@
-## Hi there 👋
+
 <h1 align="center">Hi 👋, I'm Anjali Kasar</h1>
 <h3 align="center">A passionate CS student learning Web Development & DSA</h3>
 
