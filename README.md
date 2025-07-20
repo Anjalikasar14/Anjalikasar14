@@ -15,7 +15,7 @@
 
 📚 Learning in public — growing one project at a time
 
-🔗 Portfolio: https://your-portfolio-link.com
+🔗 Portfolio: https://anjalikasar14.github.io/portfolio/
 
 ---
 
